@@ -1,0 +1,32 @@
+Hello world!2024-11-18 17:36:01,766 - INFO - Starting the cron job task...
+2024-11-18 17:36:02,700 - INFO - Processed data:
+         ID             Nombre           Apellido   Departamento/Facultad # de calif. Promedio
+0     82556  Azucena Alejandra        Aceves Alós  UANL - FCFM (Actuaría)          25   8.3600
+1    159557        Daniel Raul    Acosta Martínez                    FCFM           7   8.5714
+2    129020      Daniel Arturo         Acuña Leal               FCFM UANL          14   9.3571
+3    139018              Ester      Aguayo Moreno               Actuaría            2   7.0000
+4     96781             Martín            Aguilar                    Fcfm          17   6.7059
+..      ...                ...                ...                     ...         ...      ...
+623  159570    Elida Guadalupe  Villarreal Guerra             FCFM - LSTI           7   6.4286
+624   79063          Alejandro  Villarreal Mojica       FCFM BDPM/Progra2          43   4.1628
+626  128837              Fisam             Zavala          Fcfm/Actuaria           15   9.8000
+627  153396       MIGUEL ANGEL     ZAVALA VIZCAYA              FCFM/LCC\t           2   9.0000
+628  117732    Raymundo Manuel       Zubieta Peña                    LMAD           6   9.3333
+
+[569 rows x 6 columns]
+2024-11-18 17:36:10,739 - INFO - Starting the cron job task...
+2024-11-18 17:36:11,742 - INFO - Processed data:
+         ID             Nombre           Apellido   Departamento/Facultad # de calif. Promedio
+0     82556  Azucena Alejandra        Aceves Alós  UANL - FCFM (Actuaría)          25   8.3600
+1    159557        Daniel Raul    Acosta Martínez                    FCFM           7   8.5714
+2    129020      Daniel Arturo         Acuña Leal               FCFM UANL          14   9.3571
+3    139018              Ester      Aguayo Moreno               Actuaría            2   7.0000
+4     96781             Martín            Aguilar                    Fcfm          17   6.7059
+..      ...                ...                ...                     ...         ...      ...
+623  159570    Elida Guadalupe  Villarreal Guerra             FCFM - LSTI           7   6.4286
+624   79063          Alejandro  Villarreal Mojica       FCFM BDPM/Progra2          43   4.1628
+626  128837              Fisam             Zavala          Fcfm/Actuaria           15   9.8000
+627  153396       MIGUEL ANGEL     ZAVALA VIZCAYA              FCFM/LCC\t           2   9.0000
+628  117732    Raymundo Manuel       Zubieta Peña                    LMAD           6   9.3333
+
+[569 rows x 6 columns]
